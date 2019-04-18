@@ -1,0 +1,2 @@
+
+plof for [col=[5,6,8,9] './basic_data.csv' using 0:col with lines
